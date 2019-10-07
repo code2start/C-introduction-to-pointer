@@ -1,0 +1,11 @@
+C:\csharp\ar\pointertype\bin\Debug\netcoreapp3.0\pointertype.exe
+C:\csharp\ar\pointertype\bin\Debug\netcoreapp3.0\pointertype.deps.json
+C:\csharp\ar\pointertype\bin\Debug\netcoreapp3.0\pointertype.runtimeconfig.json
+C:\csharp\ar\pointertype\bin\Debug\netcoreapp3.0\pointertype.runtimeconfig.dev.json
+C:\csharp\ar\pointertype\bin\Debug\netcoreapp3.0\pointertype.dll
+C:\csharp\ar\pointertype\bin\Debug\netcoreapp3.0\pointertype.pdb
+C:\csharp\ar\pointertype\obj\Debug\netcoreapp3.0\pointertype.csprojAssemblyReference.cache
+C:\csharp\ar\pointertype\obj\Debug\netcoreapp3.0\pointertype.AssemblyInfoInputs.cache
+C:\csharp\ar\pointertype\obj\Debug\netcoreapp3.0\pointertype.AssemblyInfo.cs
+C:\csharp\ar\pointertype\obj\Debug\netcoreapp3.0\pointertype.dll
+C:\csharp\ar\pointertype\obj\Debug\netcoreapp3.0\pointertype.pdb
